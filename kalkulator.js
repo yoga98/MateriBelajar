@@ -1,0 +1,1 @@
+var nilai1 = prompt('masukan angka')
